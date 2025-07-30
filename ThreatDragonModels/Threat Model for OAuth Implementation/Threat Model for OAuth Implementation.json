@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Threat Model for OAuth Implementation",
+    "owner": "Rohit",
+    "description": "A secure Google OAuth implementation using React and Express, built as a portfolio project to demonstrate OAuth 2.0 best practices.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "Web Application STRIDE diagram"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Muggler",
+    "threatTop": 0
+  }
+}
