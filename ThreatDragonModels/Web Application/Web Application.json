@@ -38,6 +38,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -121,7 +122,6 @@
               ]
             },
             "id": "e87a6e00-39ea-462a-9517-26c343eb8f90",
-            "zIndex": 1,
             "data": {
               "type": "tm.Actor",
               "name": "User/ Browser",
@@ -155,6 +155,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -238,7 +239,6 @@
               ]
             },
             "id": "bedd952a-ec5c-4d1c-b417-1c33f2dc5bb5",
-            "zIndex": 2,
             "data": {
               "type": "tm.Actor",
               "name": "Admin",
@@ -272,6 +272,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -355,7 +356,6 @@
               ]
             },
             "id": "9af8aeb8-7e2f-4f63-96ad-c08a18feef42",
-            "zIndex": 3,
             "data": {
               "type": "tm.Process",
               "name": "Web Server",
@@ -392,6 +392,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 4,
             "ports": {
               "groups": {
                 "top": {
@@ -475,7 +476,6 @@
               ]
             },
             "id": "482f1709-a3ab-4d68-bdf1-34b6fcc71583",
-            "zIndex": 4,
             "data": {
               "type": "tm.Process",
               "name": "Application \nServer",
@@ -635,6 +635,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 6,
             "ports": {
               "groups": {
                 "top": {
@@ -718,7 +719,6 @@
               ]
             },
             "id": "ad3ccfde-9ab6-43b0-b94b-6aea541eb1bc",
-            "zIndex": 6,
             "data": {
               "type": "tm.Store",
               "name": "Monitoring Data \nStore",
@@ -759,6 +759,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 7,
             "ports": {
               "groups": {
                 "top": {
@@ -842,7 +843,6 @@
               ]
             },
             "id": "925e8d0a-21ef-4176-909f-b95fe563f6e7",
-            "zIndex": 7,
             "data": {
               "type": "tm.Store",
               "name": "Authentication \nCredential \nStore",
